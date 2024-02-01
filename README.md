@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Angad</h1>
+<h1 align="center">Hi 👋, I'm Angad Singh</h1>
 <h3 align="center">I code mainly in js and have done stuffs on it.I love learning all things tech.</h3>
 
 - 💬 Ask me about **react,vanilla Js**
 
 - 📫 How to reach me **angad04755@gmail.com**
+
+- ⚡ Fun fact **good at singing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
