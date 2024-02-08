@@ -1,5 +1,6 @@
-<h1 align="center">Hey,Angad here👋</h1>
-<h3 align="center">I code mainly in js and have done stuffs on it.I love learning all things tech.</h3>
+<h1 align="center">Hey there👋</h1>
+<h3 align="center"> Myself Angad an aspiring Frontend Developer.
+  I code mainly in js and have done stuffs on it.I love learning all things tech.</h3>
 
 - 💬 Ask me about **react,vanilla Js**
 
