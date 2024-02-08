@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angad</h1>
+<h1 align="center">Hey,Angad here👋/h1>
 <h3 align="center">I code mainly in js and have done stuffs on it.I love learning all things tech.</h3>
 
 - 💬 Ask me about **react,vanilla Js**
