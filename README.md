@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **angad04755@gmail.com**
 
-- ⚡ Fun fact **good at singing**
+- ⚡ Fun fact **Js alone is enough**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
