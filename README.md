@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **angad04755@gmail.com**
 
-- ⚡ Fun fact **a techie singer**
+- ⚡ Fun fact **developer cum singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
