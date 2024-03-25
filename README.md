@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angad0475&show_icons=true&locale=en&layout=compact" alt="angad0475" /></p>
 
-![Alt text](giphy.gif)/![](giphy.gif)
+![Alt text](giphy.gif)
 
