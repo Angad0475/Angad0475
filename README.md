@@ -1,4 +1,4 @@
-<h3 align="center">Myself Angad an aspiring Frontend Engineer🧑🏻‍💻. I code mainly in JS and have done stuffs on it. I love learning all things tech 🖳.</h3>
+<h3 align="center">Myself Angad an aspiring Frontend Developer🧑🏻‍💻. I code mainly in JS and have done stuffs on it. I love learning all things tech 🖳.</h3>
 <h4 align="center">**All my major projects arer pinned below 🌟**</h4>
 
 - 💬 Ask me about **React JS, Vanilla JS**
