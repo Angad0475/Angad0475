@@ -1,7 +1,7 @@
 <h3 align="center">Myself Angad an aspiring Frontend Developer🧑🏻‍💻. I code mainly in JS and have done stuffs on it. I love learning all things tech 🖳.</h3>
 <h4 align="center">**All my major projects arer pinned below 🌟**</h4>
 
-- 💬 Ask me about **React JS, Vanilla JS**
+- 💬 Ask me about **React Js, Vanilla Js**
 
 - 📫 How to reach me **angad04755@gmail.com**
 
