@@ -3,6 +3,7 @@
 - 📫 How to reach me **angad04755@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- ![Alt text](giphy.gif)
 <p align="left">
 </p>
 
