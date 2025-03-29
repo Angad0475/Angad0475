@@ -2,8 +2,7 @@
 
 - 📫 How to reach me **angad04755@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-- ![Alt text](giphy.gif)
+![Cool GIF](https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true)
 <p align="left">
 </p>
 
