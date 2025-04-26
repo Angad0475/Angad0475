@@ -1,4 +1,4 @@
-<h3 align="center">Myself Angad an aspiring Frontend Developer🧑🏻‍💻. I code mainly in TS and have done stuffs on it 🖳.</h3>
+<h3 align="center">Myself Angad an aspiring Frontend Developer🧑🏻‍💻. I code mainly in TS and have done stuffs on it.</h3>
 
 - 📫 How to reach me **angad04755@gmail.com**
 
