@@ -65,8 +65,3 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
 - 🌐 GitHub: https://github.com/Angad0475
 
----
-
-<p align="center">
-  <img src="https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true" width="280"/>
-</p>
