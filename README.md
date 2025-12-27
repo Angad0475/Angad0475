@@ -1,10 +1,53 @@
-<h3 align="center">Myself Angad an aspiring Frontend Developer🧑🏻‍💻. I code mainly in TS and have done stuffs on it.</h3>
+<h1 align="center">Hi, I'm Angad Singh 👋</h1>
+<h3 align="center">Frontend Developer | React & TypeScript</h3>
 
-- 📫 How to reach me **angad04755@gmail.com**
-
-![Cool GIF](https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true)
-<p align="left">
+<p align="center">
+I’m a frontend developer focused on building clean, responsive, and scalable web applications using modern JavaScript frameworks.  
+I enjoy turning UI designs into real-world products and continuously improving my development skills.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+- 🎓 BTech in Information Technology (Graduating 2025)
+- 💼 Frontend Developer (Internship experience)
+- ⚛️ Strong in **React, TypeScript, JavaScript**
+- 🧩 Interested in performance optimization & reusable UI components
+- 🌱 Currently exploring **Next.js & advanced frontend patterns**
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🛒 **E-commerce Frontend** – React-based shopping UI with cart & state management  
+- 🌦️ **Weather App** – API-driven app with real-time data  
+- 🧠 **Quiz Application** – Interactive quiz with clean UI & logic handling  
+
+➡️ Check pinned repositories for live demos & source code.
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **angad04755@gmail.com**
+- 💼 Wellfound: [angad-singh-78](https://wellfound.com/u/angad-singh-78)
+- 🌐 GitHub: [github.com/Angad0475](https://github.com/Angad0475)
+
+---
+
+<p align="center">
+  <img src="https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true" width="300" />
+</p>
