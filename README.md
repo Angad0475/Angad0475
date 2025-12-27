@@ -1,53 +1,72 @@
 <h1 align="center">Hi, I'm Angad Singh 👋</h1>
-<h3 align="center">Frontend Developer | React & TypeScript</h3>
+<h3 align="center">Frontend Developer | Next.js • TypeScript</h3>
 
 <p align="center">
-I’m a frontend developer focused on building clean, responsive, and scalable web applications using modern JavaScript frameworks.  
-I enjoy turning UI designs into real-world products and continuously improving my development skills.
+Frontend Developer with hands-on internship experience building scalable, performance-focused web applications using 
+<strong>Next.js, TypeScript, Redux, and Tailwind CSS</strong>.  
+Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 BTech in Information Technology (Graduating 2025)
-- 💼 Frontend Developer (Internship experience)
-- ⚛️ Strong in **React, TypeScript, JavaScript**
-- 🧩 Interested in performance optimization & reusable UI components
-- 🌱 Currently exploring **Next.js & advanced frontend patterns**
+- 💼 Frontend Developer Intern with production experience
+- 🧩 Specialized in **Next.js & TypeScript**
+- 🎨 Experienced in converting **Figma designs** into scalable UI
+- 🚀 Focused on performance, responsiveness, and clean code
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
-- 🛒 **E-commerce Frontend** – React-based shopping UI with cart & state management  
-- 🌦️ **Weather App** – API-driven app with real-time data  
-- 🧠 **Quiz Application** – Interactive quiz with clean UI & logic handling  
+## 💼 Work Experience
 
-➡️ Check pinned repositories for live demos & source code.
+### Frontend Developer Intern — Techinovativ (**Mar 2025 – Jul 2025**)
+### Frontend Developer Intern — NHWM (**Jul 2025 – Dec 2025**)
+
+- Owned frontend feature development across multiple modules in a production codebase.
+- Fixed UI bugs related to layout, responsiveness, and state handling.
+- Developed fully responsive pages using Tailwind CSS.
+- Translated Figma designs into production-ready components using Next.js and TypeScript.
+- Tested and optimized pages using Lighthouse.
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Web App
+- Built a responsive e-commerce application using **Next.js & Tailwind CSS**.
+- Implemented **Redux-based cart state management**.
+- Integrated secure payment gateway and optimized checkout flow.
+- Ensured smooth performance across devices.
+
+### 📈 Crypto Price Tracker
+- Developed a real-time crypto tracking application with API-driven data.
+- Implemented efficient data fetching and state handling.
+- Built reusable UI components with search, filtering, and charts.
+
+➡️ Check pinned repositories for code.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Contact & Links
 - 📧 Email: **angad04755@gmail.com**
-- 💼 Wellfound: [angad-singh-78](https://wellfound.com/u/angad-singh-78)
-- 🌐 GitHub: [github.com/Angad0475](https://github.com/Angad0475)
+- 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
+- 🌐 GitHub: https://github.com/Angad0475
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true" width="300" />
+  <img src="https://github.com/Angad0475/Angad0475/blob/master/giphy.gif?raw=true" width="280"/>
 </p>
