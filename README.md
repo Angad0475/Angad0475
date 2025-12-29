@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Angad👋</h1>
+<!-- <h1 align="center">Hi, I'm Angad👋</h1> -->
 <h3 align="center">Frontend Developer | Next.js | TypeScript</h3>
 
 <p align="center">
