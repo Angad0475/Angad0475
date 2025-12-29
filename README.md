@@ -10,7 +10,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BTech in Information Technology (Graduating 2025)
+- 🎓 BTech in Information Technology (Graduated 2025)
 - 💼 Frontend Developer Intern with production experience
 - 🧩 Specialized in **Next.js & TypeScript**
 - 🎨 Experienced in converting **Figma designs** into scalable UI
