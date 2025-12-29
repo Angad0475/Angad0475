@@ -63,5 +63,4 @@ Strong foundation in component-driven architecture, API integration, responsive 
 ## 📫 Contact & Links
 - 📧 Email: **angad04755@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
-- 🌐 GitHub: https://github.com/Angad0475
 
