@@ -48,6 +48,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Built a responsive e-commerce application using **Next.js & Tailwind CSS**.
 - Implemented **Redux-based cart state management**.
 - Integrated secure payment gateway and optimized checkout flow.
+- Integrated secure user authentication and authorization and streamlined login/signup workflows.
 - Ensured smooth performance across devices.
 
 ### 📈 Crypto Price Tracker
